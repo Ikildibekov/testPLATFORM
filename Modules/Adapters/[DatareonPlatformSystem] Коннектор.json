@@ -25,7 +25,7 @@
   "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
   "Name": "Коннектор",
   "Description": "Тестовый",
-  "Comment": "Проверка ГИТ",
-  "Version": 2,
+  "Comment": "Вторая проверка ГИТ",
+  "Version": 3,
   "TagsCollection": []
 }
