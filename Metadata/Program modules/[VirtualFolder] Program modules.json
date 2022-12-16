@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "UserModules",
+  "FolderId": "7c8e1d65-690b-4107-8d38-f736791f1230",
+  "EntityId": "4a1e43fc-771b-4c2f-b13e-ae749077a056",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "Программные модули",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

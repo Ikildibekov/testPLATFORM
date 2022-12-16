@@ -1,0 +1,22 @@
+{
+  "$type": "DT.ClusterConfiguration.NodeModule, DT_Core",
+  "Config": {
+    "$type": "DT.ConfigurationRepository.Configuration.ModuleConfiguration.ProcessesConfig, DT_ConfigurationRepository",
+    "UseBalancing": null,
+    "ProcessParams": null,
+    "CommonParams": null,
+    "SendingStrategy": null
+  },
+  "IsActive": true,
+  "FolderId": "1b717da1-b148-4a03-9291-dd2335d3eec3",
+  "GlobalDiagnosticParams": null,
+  "LocalDiagnosticParams": null,
+  "LogStorageParams": null,
+  "EntityId": "df2e1d79-c6f4-444e-80c9-349781c1fcce",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "Процессы",
+  "Description": "Сервис обработки процессов",
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

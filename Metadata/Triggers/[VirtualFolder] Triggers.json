@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "Triggers",
+  "FolderId": "7c8e1d65-690b-4107-8d38-f736791f1230",
+  "EntityId": "3f738866-e9f3-4d9f-8850-acf2c16e1100",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "Триггеры",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

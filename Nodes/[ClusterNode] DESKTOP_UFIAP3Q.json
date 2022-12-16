@@ -1,0 +1,48 @@
+{
+  "$type": "DT.ClusterConfiguration.ClusterNode, DT_Core",
+  "IsCoordinator": false,
+  "HasControlCenter": true,
+  "Address": "172.16.9.69",
+  "Port": 7290,
+  "IpAddress": null,
+  "ControlCenterPort": 7200,
+  "ServiceKey": "00000000-0000-0000-0000-000000000000",
+  "ReplicateTo": [],
+  "AllocationsGlobal": {
+    "$type": "DT.ClusterConfiguration.Allocation.AllocationConfig, DT_Core",
+    "Systems": [],
+    "Modules": [],
+    "DisableAutoAssignment": false
+  },
+  "AllocationsLocal": {
+    "$type": "DT.ClusterConfiguration.Allocation.AllocationConfig, DT_Core",
+    "Systems": [],
+    "Modules": [],
+    "DisableAutoAssignment": false
+  },
+  "AllocationsEffective": {
+    "$type": "DT.ClusterConfiguration.Allocation.AllocationConfig, DT_Core",
+    "Systems": [],
+    "Modules": [],
+    "DisableAutoAssignment": false
+  },
+  "IsBroken": false,
+  "BrokenReason": "None",
+  "IsActive": true,
+  "FolderId": "16d251dc-95f2-47e4-9fd7-b273136e21b7",
+  "NodeParams": null,
+  "GlobalDiagnosticParams": null,
+  "LocalDiagnosticParams": null,
+  "NodeResolveList": [],
+  "DataBankParams": null,
+  "UseDiskControl": null,
+  "DiskUsageParams": null,
+  "LogStorageParams": null,
+  "EntityId": "363c06ed-d964-4c84-8f4c-a066a6005eba",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "DESKTOP_UFIAP3Q",
+  "Description": "DESKTOP_UFIAP3Q",
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "EtlProcesses",
+  "FolderId": "7c8e1d65-690b-4107-8d38-f736791f1230",
+  "EntityId": "cd9c115d-8e2d-481c-a646-076d5129dc68",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "Процессы ETL",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

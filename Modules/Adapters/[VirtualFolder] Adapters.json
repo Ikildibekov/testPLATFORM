@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "Systems",
+  "FolderId": "1b717da1-b148-4a03-9291-dd2335d3eec3",
+  "EntityId": "25f5c2f4-ebf2-41a3-b723-d7d9cf77cae2",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "Адаптеры",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

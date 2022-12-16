@@ -1,0 +1,31 @@
+{
+  "$type": "DT.ClusterConfiguration.DtSystem, DT_Core",
+  "Config": {
+    "$type": "DT.ConfigurationRepository.Configuration.Adapter.FileSystemConfig, DT_ConfigurationRepository",
+    "ConnectorType": "File",
+    "InputDirectory": "",
+    "ReadInterval": 1000,
+    "IsDeleteFiles": true,
+    "OutputDirectory": "",
+    "FileNamePattern": "",
+    "CheckLastWriteTime": false,
+    "Auth": null,
+    "HandlersList": [],
+    "SendingStrategy": null
+  },
+  "IsActive": true,
+  "FolderId": "25f5c2f4-ebf2-41a3-b723-d7d9cf77cae2",
+  "Servers": [
+    ""
+  ],
+  "GlobalDiagnosticParams": null,
+  "LocalDiagnosticParams": null,
+  "LogStorageParams": null,
+  "EntityId": "4e0a1194-1088-44f3-af20-4b8e62ef23d0",
+  "ClusterId": "86158bc8-49b0-4ed6-b44b-02c159c03ed5",
+  "Name": "Коннектор",
+  "Description": "Тестовый",
+  "Comment": "Проверка ГИТ",
+  "Version": 2,
+  "TagsCollection": []
+}
